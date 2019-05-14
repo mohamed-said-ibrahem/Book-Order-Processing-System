@@ -7,6 +7,6 @@
 * Modules are Seperateed and are not connected together so you can connect them eaisly after </br>
 * modifying and doing your requirments
 </br></br></br>
-* All the config required are in pom.xml & servlet-context.xml and you need to have mysql-connector-java-8.0.16 in your project * directory so you can connect with the DB without any problem 
+* All the config required are in pom.xml & servlet-context.xml and you need to have mysql-connector-java-8.0.16 in your * project  directory so you can connect with the DB without any problem 
 </br></br></br>
 * Sql file is uploaded too so you can modify if you want :)
