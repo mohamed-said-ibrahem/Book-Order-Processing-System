@@ -1,4 +1,4 @@
-# Book-Order-Processing-System (JAVA SPRING MVC FRAMEWORK).
+# Book-Order-Processing-System (JAVA SPRING MVC).
 
 # Project Statement:
 You are required to analyze, design and implement a database system to support the operations of a simplified online bookstore. Also, you are required to create the necessary forms to perform these operations.
